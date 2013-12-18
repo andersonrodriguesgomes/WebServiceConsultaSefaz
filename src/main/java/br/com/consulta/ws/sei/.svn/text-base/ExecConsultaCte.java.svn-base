@@ -1,0 +1,32 @@
+package br.com.consulta.ws.sei;
+
+public interface ExecConsultaCte {
+
+	public String motaXmlConsultaStatusServico();
+
+	public String motaXmlConsultaSituacaoCte();
+
+	public String consultaStatus();
+
+	public String ConsultaSituacaoCTe();
+
+	public void error(String log);
+
+	public void info(String log);
+
+	public String getVersao();
+
+	public void setVersao(String versao);
+
+	public String getUf();
+
+	public void setUf(String uf);
+
+	public String getWebService();
+
+	public void setWebService(String webService);
+
+	public String getChCTe();
+
+	public void setChCTe(String chCTe);
+}

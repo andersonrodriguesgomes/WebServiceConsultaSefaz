@@ -1,0 +1,71 @@
+uf11ProdSefaz = https://cte.sefaz.rs.gov.br/ws/cteconsulta/cteconsulta.asmx
+uf12ProdSefaz = https://cte.sefaz.rs.gov.br/ws/cteconsulta/cteconsulta.asmx
+uf13ProdSefaz = https://cte.sefaz.rs.gov.br/ws/cteconsulta/cteconsulta.asmx
+uf14ProdSefaz = https://nfe.fazenda.sp.gov.br/cteWEB/services/CteConsulta.asmx
+uf15ProdSefaz = https://cte.sefaz.rs.gov.br/ws/cteconsulta/cteconsulta.asmx
+uf16ProdSefaz = https://nfe.fazenda.sp.gov.br/cteWEB/services/CteConsulta.asmx
+uf17ProdSefaz = https://cte.sefaz.rs.gov.br/ws/cteconsulta/cteconsulta.asmx
+uf21ProdSefaz = https://cte.sefaz.rs.gov.br/ws/cteconsulta/cteconsulta.asmx
+uf22ProdSefaz = https://cte.sefaz.rs.gov.br/ws/cteconsulta/cteconsulta.asmx
+uf23ProdSefaz = https://cte.sefaz.rs.gov.br/ws/cteconsulta/cteconsulta.asmx
+uf24ProdSefaz = https://cte.sefaz.rs.gov.br/ws/cteconsulta/cteconsulta.asmx
+uf25ProdSefaz = https://cte.sefaz.rs.gov.br/ws/cteconsulta/cteconsulta.asmx
+uf26ProdSefaz = https://nfe.fazenda.sp.gov.br/cteWEB/services/CteConsulta.asmx
+uf27ProdSefaz = https://cte.sefaz.rs.gov.br/ws/cteconsulta/cteconsulta.asmx
+uf28ProdSefaz = https://cte.sefaz.rs.gov.br/ws/cteconsulta/cteconsulta.asmx
+uf29ProdSefaz = https://cte.sefaz.rs.gov.br/ws/cteconsulta/cteconsulta.asmx
+uf31ProdSefaz = https://cte.fazenda.mg.gov.br/cte/services/CteConsulta
+uf32ProdSefaz = https://cte.sefaz.rs.gov.br/ws/cteconsulta/cteconsulta.asmx
+uf33ProdSefaz = https://cte.sefaz.rs.gov.br/ws/cteconsulta/cteconsulta.asmx
+uf35ProdSefaz = https://nfe.fazenda.sp.gov.br/cteWEB/services/cteConsulta.asmx
+uf41ProdSefaz = https://cte.fazenda.pr.gov.br/cte/CteConsulta?wsdl
+uf42ProdSefaz = https://cte.sefaz.rs.gov.br/ws/cteconsulta/cteconsulta.asmx
+uf43ProdSefaz = https://cte.sefaz.rs.gov.br/ws/cteconsulta/cteconsulta.asmx
+uf50ProdSefaz = https://cte.sefaz.mt.gov.br/ctews/services/CteConsulta
+uf51ProdSefaz = https://cte.sefaz.mt.gov.br/ctews/services/CteConsulta
+uf52ProdSefaz = https://cte.sefaz.rs.gov.br/ws/cteconsulta/cteconsulta.asmx
+uf53ProdSefaz = https://cte.sefaz.rs.gov.br/ws/cteconsulta/cteconsulta.asmx
+
+uf11ProdSefazServico = https://cte.sefaz.rs.gov.br/ws/ctestatusservico/ctestatusservico.asmx
+uf12ProdSefazServico = https://cte.sefaz.rs.gov.br/ws/ctestatusservico/ctestatusservico.asmx
+uf13ProdSefazServico = https://cte.sefaz.rs.gov.br/ws/ctestatusservico/ctestatusservico.asmx
+uf14ProdSefazServico = https://nfe.fazenda.sp.gov.br/cteWEB/services/CteStatusServico.asmx
+uf15ProdSefazServico = https://cte.sefaz.rs.gov.br/ws/ctestatusservico/ctestatusservico.asmx
+uf16ProdSefazServico = https://nfe.fazenda.sp.gov.br/cteWEB/services/CteStatusServico.asmx
+uf17ProdSefazServico = https://cte.sefaz.rs.gov.br/ws/ctestatusservico/ctestatusservico.asmx
+uf21ProdSefazServico = https://cte.sefaz.rs.gov.br/ws/ctestatusservico/ctestatusservico.asmx
+uf22ProdSefazServico = https://cte.sefaz.rs.gov.br/ws/ctestatusservico/ctestatusservico.asmx
+uf23ProdSefazServico = https://cte.sefaz.rs.gov.br/ws/ctestatusservico/ctestatusservico.asmx
+uf24ProdSefazServico = https://cte.sefaz.rs.gov.br/ws/ctestatusservico/ctestatusservico.asmx
+uf25ProdSefazServico = https://cte.sefaz.rs.gov.br/ws/ctestatusservico/ctestatusservico.asmx
+uf26ProdSefazServico = https://nfe.fazenda.sp.gov.br/cteWEB/services/CteStatusServico.asmx
+uf27ProdSefazServico = https://cte.sefaz.rs.gov.br/ws/ctestatusservico/ctestatusservico.asmx
+uf28ProdSefazServico = https://cte.sefaz.rs.gov.br/ws/ctestatusservico/ctestatusservico.asmx
+uf29ProdSefazServico = https://cte.sefaz.rs.gov.br/ws/ctestatusservico/ctestatusservico.asmx
+uf31ProdSefazServico = https://cte.fazenda.mg.gov.br/cte/services/CteStatusServico
+uf32ProdSefazServico = https://cte.sefaz.rs.gov.br/ws/ctestatusservico/ctestatusservico.asmx
+uf33ProdSefazServico = https://cte.sefaz.rs.gov.br/ws/ctestatusservico/ctestatusservico.asmx
+uf35ProdSefazServico = https://nfe.fazenda.sp.gov.br/cteWEB/services/cteStatusServico.asmx
+uf41ProdSefazServico = https://cte.fazenda.pr.gov.br/cte/CteStatusServico?wsdl
+uf42ProdSefazServico = https://cte.sefaz.rs.gov.br/ws/ctestatusservico/ctestatusservico.asmx
+uf43ProdSefazServico = https://cte.sefaz.rs.gov.br/ws/ctestatusservico/ctestatusservico.asmx
+uf50ProdSefazServico = https://cte.sefaz.mt.gov.br/ctews/services/CteStatusServico
+uf51ProdSefazServico = https://cte.sefaz.mt.gov.br/ctews/services/CteStatusServico
+uf52ProdSefazServico = https://cte.sefaz.rs.gov.br/ws/ctestatusservico/ctestatusservico.asmx
+uf53ProdSefazServico = https://cte.sefaz.rs.gov.br/ws/ctestatusservico/ctestatusservico.asmx
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,35 @@
+10
+
+dir
+0
+http://vmdeinsrv01/svn/synchro/trunk/WebServiceConsultaSefaz/src/main
+http://vmdeinsrv01/svn/synchro
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+6f071135-a28e-476c-8a7e-a9587ec63731
+
+java
+dir
+
+
+
+add
+

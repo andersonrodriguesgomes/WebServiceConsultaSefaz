@@ -1,0 +1,16 @@
+package br.com.consulta.ws.sei;
+
+import java.io.IOException;
+import java.util.Properties;
+
+public interface SetCertificado {
+	public void setSystem();
+
+	public Properties getProps();
+
+	public void setProps(Properties props);
+
+	public Properties lerProperties() throws IOException;
+
+	public void buscaPtRaiz();
+}
